@@ -10,7 +10,7 @@
 A website made in Python Flask that tells the status code of stackoverflow using the requests library.
 </p>
 
-<hr>
+
 
 ## Installation
 1. On the top, click the green button with "code" on it.
