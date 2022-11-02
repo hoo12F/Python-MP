@@ -6,6 +6,12 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
 </p>
 
+<p align="center">
+A website made in Python Flask that tells the status code of stackoverflow using the requests library.
+</p>
+
+<hr>
+
 ## Installation
 1. On the top, click the green button with "code" on it.
 2. Click download zip
