@@ -34,4 +34,4 @@ async def on_message(message):
         await message.author.send(f"There was an error fetching the quote.")
 
 client.run(
-    'MTA0MzE5ODY2MjQ0NjE2MTk5MA.GSn-sp.ZE_m64YTdLMp4hsgz_-l9Inf43J_FWl82YPB5E')
+    'token')
